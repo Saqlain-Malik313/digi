@@ -1,0 +1,391 @@
+/* *{
+    padding: 3px;
+    margin: 0px;
+    border-style: border-box;
+} */
+
+*{
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+.whatsapplogo {
+  border: 1px solid #198754;
+  color: #198754;
+}
+
+.whatsapplogo:hover {
+  border: 1px solid #198754;
+}
+
+.whatsapplogo i {
+  color: #198754;
+}
+
+.bannerContent p {
+  font-size: 22px;
+  font-weight: 700;
+  color: #3B71FE;
+}
+
+.bannerContent h1 {
+  font-size: 48px;
+  font-weight: 700;
+  color: #0E0E2C ;
+}
+
+.letsTalk {
+  border: 1px solid #198754;
+  background-color: #198754;
+  padding: 10px 22px;
+  font-size: 16px;
+  color: #ffffff;
+  box-shadow: black;
+}
+
+.letsTalk:hover {
+  border: 1px solid #198754;
+  background-color: #ffffff;
+  color: #198754;
+  transition: 0.5s;
+}
+
+.i:hover {
+  color: #ffffff;
+}
+
+.bannerContent h1 span  {
+  color: #3B71FE;
+}
+
+.bannerForm {
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.bannerForm input {
+  overflow: block;
+}
+
+.bannerForm label {
+  font-size: 15px;
+}
+
+.bannerForm h3 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #0E0E2C;
+}
+
+.bannerForm p {
+  color: #A0A4AB;
+  font-size: 15px;
+}
+
+.contactFormBtn button{
+  width: 100%;
+  padding: 12px 0px;
+  border-radius: 7px;
+  border: none;
+  background-color: #3B71FE;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.contactFormBtn button:hover {
+  background-color: #3b72feea;
+  color: white;
+}
+
+.brandingSec {
+  background-color: #ecf1fc;
+}
+
+.brandingSec h3{
+  font-size: 22px;
+  font-weight: 600;
+  color: #3B71FE;
+}
+
+.brandingSec h2 {
+  font-size: 28.5px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #0E0E2C;
+}
+
+
+.card1, .card2, .card3, .card4, .card5, .card6 {
+  border: 1px solid white;
+  padding: 25px;
+  background-color: #ffffff;
+}
+
+
+.card1 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card2 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card3 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card4 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card5 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card6 h5{
+  font-size: 20px;
+  font-weight: 600;
+  color: #3B71FE;
+  margin-bottom: 15px;
+}
+
+.card1, .card2, .card3, .card4, .card5, .card6 p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #A0A4AB;
+}
+
+.card1Figure, .card2Figure, .card3Figure, .card4Figure, .card5Figure, .card6Figure {
+  font-size: 30px;
+  color:#0e0e2c48;
+}
+
+.AboutUsSection h3 {
+  font-size: 28.5px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #0E0E2C;
+}
+
+.aboutUs {
+  font-size: 22px;
+  font-weight: 600;
+  color: #3B71FE;
+}
+
+.AboutUsSection p {
+  font-size: 20px;
+  color: #A0A4AB;
+  line-height: 35px;
+}
+.AboutUsSection img {
+  width: 450px;
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+
+.column {
+  width: 100%;
+}
+
+.btnEnquire {
+  border: 1px solid #3B71FE;
+  background-color: #3B71FE;
+  padding: 10px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  box-shadow: black;
+}
+
+.btnEnquire:hover{
+  border: 1px solid #3B71FE;
+  background-color: #ffffff;
+  color: #3B71FE;
+  transition: 0.5s;
+}
+
+.ourProcess {
+  font-size: 22px;
+  font-weight: 600;
+  color: #3B71FE;
+}
+
+.ourProcessSection h3 {
+  font-size: 28.5px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #0E0E2C;
+}
+
+.ourProcessSection p {
+  font-size: 20px;
+  color: #A0A4AB;
+  line-height: 35px;
+}
+
+
+.arrow h6 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.arrow h5 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #3B71FE;
+}
+
+.arrow p {
+  font-size: 16px;
+  line-height: 171%;
+}
+@media (min-width: 1400px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+      max-width: 1170px;
+  }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 575px){
+  .btn-outer {
+      position: fixed;
+      background-color: #ffffff;
+      padding: 5px 0px;
+      bottom: 0px;
+      width: 100%;
+      left: 0px;
+      justify-content: center !important;
+  }
+  .btn-primary, .whatsapplogo {
+      padding: 8px 15px;
+      font-size: 14px;
+  }
+  .bannerContent h1 {
+      font-size: 30px;
+      font-weight: 800;
+      line-height: 38px;
+      text-align: center;
+  }
+  .letsTalk {
+      border: 1px solid #198754;
+      background-color: #198754;
+      padding: 8px 18px;
+      font-size: 14px;
+      color: #ffffff;
+  }
+  .bannerForm {
+      padding: 20px;
+      border-radius: 7px;
+  }
+  .bannerForm h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: #0E0E2C;
+      line-height: 22px;
+  }
+  .bannerForm p {
+      color: #A0A4AB;
+      font-size: 14px;
+  }
+  .brandingSec h3 {
+      font-size: 16px;
+  }
+  .brandingSec h2 {
+      font-size: 22px;
+      font-weight: 700;
+  }
+  .card1 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .card2 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .card3 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .card4 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .card5 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .card6 h5 {
+      font-size: 22px;
+      font-weight: bold;
+  }
+  .contactFormBtn button {
+      font-size: 17px;
+      font-weight: 600;
+  }
+  .contactFormBtn button:hover {
+      background-color: #3b72fef1;
+      color: white;
+  }
+  .AboutUsSection h3 {
+      font-size: 22px;
+      margin-top: 20px;
+      font-weight: 700;
+      color: #0E0E2C;
+  }
+  .AboutUsSection p {
+      font-size: 18px;
+      color: #A0A4AB;
+      line-height: 28px;
+  }
+  .AboutUsSection img {
+      display: none;
+  }
+  .AboutUsSection h3 {
+      font-size: 22px;
+      margin-top: 20px;
+      font-weight: 700;
+      color: #0E0E2C;
+  }
+  .aboutUs {
+      font-size: 16px;
+      font-weight: 600;
+      color: #3B71FE;
+  }
+  .ourProcess {
+      font-size: 16px;
+      font-weight: 600;
+      color: #3B71FE;
+  }
+  .ourProcessSection h3 {
+      font-size: 22px;
+      margin-top: 20px;
+      font-weight: 700;
+      color: #0E0E2C;
+  }
+  .figContainer img {
+      display: none;
+  }
+  .ourProcessSection img {
+      display: none;
+      padding: 0px;
+  }
+}
+
