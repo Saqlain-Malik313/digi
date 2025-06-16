@@ -3,7 +3,7 @@ import React from 'react'
 const Work = () => {
   return (
     <section className="container-fluid py-5 ourProcessSection">
-        <div className="container d-flex flex-row">
+        <div className="container d-flex flex-row" style={{ flexWrap:"wrap-reverse"}}>
             <div className="container-row align-content-center">
                 <div className="column col-lg-6 col-12">
                     <div className="ourProcess">Work Process</div>
