@@ -15,7 +15,7 @@ const Work = () => {
                 </div>
             </div>    
             <div className="container">
-                <div className="row " style={{flexWrap:"wrap-reverse"}}>
+                <div className="row " style={{flexWrap:"wrap-reverse", display:"flex"}}>
                     <div className="text-center col-lg-11 col-12 figContainer" >
                         <figure>
                             <img src="/Images/Vector 3.png" alt=""/>
